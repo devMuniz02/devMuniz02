@@ -5,7 +5,7 @@
 
 # Emmanuel Muniz
 
-AI engineer building practical systems across machine learning, multimodal AI, computer vision, reinforcement learning, and applied robotics.
+AI engineer building practical systems across machine learning, finance, NLP, multimodal AI, computer vision, reinforcement learning, and applied robotics.
 
 ## About
 
