@@ -5,20 +5,18 @@
 
 # Emmanuel Muniz
 
-AI engineer focused on machine learning, computer vision, reinforcement learning, multimodal systems, and applied robotics.
+AI engineer building practical systems across machine learning, multimodal AI, computer vision, reinforcement learning, and applied robotics.
 
 ## About
 
-- Building practical AI systems that move from research ideas to working demos and deployment-ready tools.
+- Focused on taking research ideas into working demos, applied tools, and deployment-ready workflows.
 - Interested in vision-language models, retrieval-augmented generation, model optimization, and autonomous systems.
-- Sharing projects across AI, robotics, quantitative experimentation, and developer tooling.
 
 ## Publication
 
-- **arXiv**
-- **Radiology Report Generation with Layer-Wise Anatomical Attention** - `arXiv:2512.16841`
-- **December 2025**
-- **First Author & Lead Researcher**
+- **ArXiv publication:** **Radiology Report Generation with Layer-Wise Anatomical Attention** (`arXiv:2512.16841`)
+- **Role:** First Author & Lead Researcher
+- **Date:** December 2025
 - Publication link: [arxiv.org/abs/2512.16841](https://arxiv.org/abs/2512.16841)
 
 ![Anatomical Attention Demo](https://raw.githubusercontent.com/devMuniz02/UDEM-CXR-Reporting-Thesis-2025/main/assets/AnatomicalAttention.gif)
@@ -27,41 +25,19 @@ AI engineer focused on machine learning, computer vision, reinforcement learning
 
 - Microsoft Python Developer
 - Microsoft AI & ML Engineering
-- 3 Specializations in Machine Learning, Deep Learning, and NLP
+- 3 specializations across Machine Learning, Deep Learning, and NLP
 - 40+ DeepLearning.AI certifications across NLP, Transformers, Attention, LLMs, and Agents
 - Certifications: [linkedin.com/in/devmuniz/details/certifications](https://www.linkedin.com/in/devmuniz/details/certifications)
 
-## Focus Areas
+## Core Skills
 
-- Computer vision and multimodal AI
-- Retrieval-augmented generation
-- Reinforcement learning and robotics
-- ONNX, quantization, and model deployment
-- Applied research prototypes
-
-## Skills
-
-**AI & Machine Learning**
-
-- Core: Deep Learning, Generative AI, multimodal learning, reinforcement learning, time series modeling, feature engineering, A/B testing, model evaluation, and monitoring.
-- Specialized: Computer vision, NLP, Vision Transformers, DINOv3, SLMs and LLMs, GPT-based decoders, attention mechanisms, and medical image analysis.
-- Training & Optimization: Mid-training LR scheduling, post-training fine-tuning, linear interpolation for context extension, gradient accumulation, FP16/BF16 mixed precision, LoRA, QLoRA, adapter modules, and self-supervised learning.
-- Agentic AI & RAG: Multimodal RAG, agentic workflow orchestration, tool calling, semantic search, document intelligence for PDF/PPTX parsing, and vector search.
-
-**Frameworks & Libraries**
-
-- Deep Learning: PyTorch, TensorFlow, Keras, Hugging Face Transformers, PEFT, Accelerate, and TorchVision.
-- Data & Science: Scikit-learn, OpenCV, Stable-Baselines3, Gymnasium, NumPy, Pandas, Matplotlib, Seaborn, VADER, and NLTK.
-- RAG & Deployment: LangChain, LlamaIndex, FastAPI, Streamlit, and Gradio.
-
-**Tools & Infrastructure**
-
-- MLOps & Cloud: Vertex AI, Google Cloud Platform, Docker, NVIDIA A100, Weights & Biases, TensorBoard, and Google Cloud Storage.
-- Development: Git, Linux, LaTeX, Artifact Registry, and Hugging Face Spaces.
-
-**Programming Languages**
-
-- Python, C++, C#, JavaScript, TypeScript, SQL, and MATLAB.
+- **AI & Machine Learning:** Deep Learning, Generative AI, multimodal learning, reinforcement learning, time series modeling, feature engineering, A/B testing, model evaluation, and monitoring
+- **Specialized:** Computer vision, NLP, Vision Transformers, DINOv3, SLMs and LLMs, GPT-based decoders, attention mechanisms, and medical image analysis
+- **Training & Optimization:** LR scheduling, fine-tuning, context extension, gradient accumulation, FP16/BF16, LoRA, QLoRA, adapter modules, and self-supervised learning
+- **Agentic AI & RAG:** Multimodal RAG, workflow orchestration, tool calling, semantic search, document intelligence, and vector search
+- **Frameworks:** PyTorch, TensorFlow, Keras, Hugging Face, PEFT, Accelerate, TorchVision, Scikit-learn, OpenCV, Stable-Baselines3, Gymnasium, LangChain, LlamaIndex, FastAPI, Streamlit, and Gradio
+- **Tools & Infrastructure:** Vertex AI, GCP, Docker, NVIDIA A100, Weights & Biases, TensorBoard, Google Cloud Storage, Git, Linux, LaTeX, Artifact Registry, and Hugging Face Spaces
+- **Languages:** Python, C++, C#, JavaScript, TypeScript, SQL, and MATLAB
 
 ## Featured Projects
 
